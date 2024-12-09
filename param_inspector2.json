@@ -12,7 +12,7 @@
         "description" : "the scanning type to be enabled on every account newly attached to the Delegated Administrator"
         },
     "regions": {
-       "enablement": "eu-west-1 eu-west-2 eu-west-3 eu-central-1 us-east-1 us-east-2",
+       "enablement": "eu-west-1 eu-west-2 eu-west-3 eu-central-1 eu-north-1 us-east-1 us-east-2",
        "description": "List of AWS regions - space separated - where the script will execute Amazon Inspector2 commands"
     }
   }
